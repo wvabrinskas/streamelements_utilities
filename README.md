@@ -8,6 +8,7 @@
     - Replace where it says `JWT-TOKEN-GOES-HERE` with your token from your StreamElements account.
     - Replace where it says `CHANNEL-ID-GOES-HERE` with your channel ID from your StreamElements account.
     - These can be found on the by clicking on your user name in the top left and going to `Settings` and then clicking `Accounts`. Or by clicking [here](https://streamelements.com/dashboard/account/information) to take you right to it. 
+1. Rename `config-example.json` to `config.json`
 
 # Song Requests
 ## Install Instructions for for Stream Deck
