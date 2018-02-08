@@ -11,7 +11,7 @@
 1. Rename `config-example.json` to `config.json`
 
 # Song Requests
-## Install Instructions for for Stream Deck
+## Install Instructions for Stream Deck
 1. Open up `Stream Deck` software and add two `Open` actions to the board. 
 1. Label one action `Start` and the other action `Stop`.
 1. Link the `start.py` file to the `Start` action. Link the `stop.py` file to the `Stop` action. 
