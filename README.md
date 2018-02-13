@@ -20,4 +20,4 @@
 # Developer Social Contact
 1. [Twitter](https://twitter.com/william_vab)
 1. [Twitch (wavOW)](https://twitch.tv/wavow)
-1. [Twitch (Gaming Night Live)](https://twitch.tv/gamingnightlive)
+1. [Twitch (Gaming Night Live)](https://www.twitch.tv/thegnl)
